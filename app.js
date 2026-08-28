@@ -5,7 +5,7 @@ const app = express();
 app.listen(3000);
 
 app.get('/', (req, res) => {
-  res.send('<p>pagina inicial</p>');
+  res.send('<p>pagina inicial2222222</p>');
 });
 
 app.get('/link1', (req, res) => {
