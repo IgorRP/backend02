@@ -4,7 +4,6 @@ const { const1 } = require('./interface.js');
 
 
 //import {GoogleGenAI} from '@google/genai';
-//const GEMINI_API_KEY = 'AQ.Ab8RN6KtrsJYc-6mAjU5yDl3F5o7aQ6BdFnoFF9_h_L6Cs262w';
 
 const express = require('express');
 const app = express();
